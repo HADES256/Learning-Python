@@ -8,8 +8,8 @@ pip -V
 ```
 if it returns something along the line of
 ```
-C:\Users\USERNAME>pip -V
-pip 21.2.4 from C:\Python310\lib\site-packages\pip (python 3.10)
+C:\Users\USERNAME>python --version
+Python 3.10.2
 
 C:\Users\USERNAME>pip -V
 pip 21.2.4 from C:\Python310\lib\site-packages\pip (python 3.10)
