@@ -1,6 +1,6 @@
 # Installing modules with pip
 
-to install modules and extra feature to python run this command in a terminal
+to install modules and extra features to python run this command in a terminal
 ```
 pip install (module name)
 ```
