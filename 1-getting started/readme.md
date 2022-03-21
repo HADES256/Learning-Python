@@ -15,3 +15,5 @@ C:\Users\USERNAME>pip -V
 pip 21.2.4 from C:\Python310\lib\site-packages\pip (python 3.10)
 ```
 then you are set to continue to the next chapter.  
+
+It is also recomended to get a IDE aswell like VS code or sublime text.  
